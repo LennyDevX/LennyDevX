@@ -8,6 +8,9 @@ Explore, collaborate, and make yourself at home. Together, let's build an exciti
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lennych_nft)
 
+
+
+
 ## Language and tools :
 
 **Front-End 🐱‍👤**
