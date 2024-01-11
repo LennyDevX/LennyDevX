@@ -22,6 +22,7 @@ Explore, collaborate, and make yourself at home. Together, let's build an exciti
 <code><img height="35" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
+
 **Design 🐱‍💻**
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/></code>
@@ -31,6 +32,8 @@ Explore, collaborate, and make yourself at home. Together, let's build an exciti
 <code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 <code><img height="35" alt="django" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/django/django.png"></code>
 <code><img height="35" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="35" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
 
 
 **Databases 🐱‍🏍**
