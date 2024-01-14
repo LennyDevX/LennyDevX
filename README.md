@@ -1,4 +1,4 @@
-![lennyDev2 (1)](https://github.com/LennyDevX/LennyDevX/assets/71667982/505aad7e-4131-4697-91c3-7a6753e0db6f)
+![Dev](https://github.com/LennyDevX/LennyDevX/assets/71667982/71ad08bb-bbef-4da7-8f07-a2b36f2c327c)
 
 Hello, I'm Lenny Valdez 👋🏾
 I'm a passionate web developer, specializing in frontend development, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
