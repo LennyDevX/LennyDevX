@@ -1,8 +1,15 @@
-![programadorFoto](https://github.com/LennyDevX/readme/assets/71667982/0351a08f-397d-4f16-af09-11f285d83bbf)
+![lennyDev2](https://github.com/LennyDevX/LennyDevX/assets/71667982/739eef96-130f-49c2-a58b-94a0c0c1a58b)
 
-Welcome to my digital haven on GitHub!.
+Hello, I'm Lenny Valdez 👋🏾
+I'm a passionate web developer, specializing in frontend development, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
 
-Explore, collaborate, and make yourself at home. Together, let's build an exciting digital future.
+While my strength lies in frontend, I have experience working with backend code, allowing me to have a comprehensive understanding of web application development. This enables me to effectively collaborate with backend teams and have a broader view of the projects I work on.
+
+In addition to my technical skills, I have strong communication and leadership abilities. I firmly believe in the value of teamwork and collaboration, and I'm always willing to share my knowledge and learn from others. I also have experience in marketing and business, which allows me to better understand user needs and create solutions that are not only technically sound but also meet business objectives.
+
+As an app creator, I enjoy the process of turning ideas into reality and solving problems through technology. I'm always looking for new opportunities to grow and challenges to overcome.
+
+If you're looking for someone who can bring solid technical skills, a collaborative attitude, and a business perspective to your team, I would be delighted to speak with you.
 
 ## 🌐 Socials :
 
