@@ -1,4 +1,4 @@
-![lennyDev2](https://github.com/LennyDevX/LennyDevX/assets/71667982/739eef96-130f-49c2-a58b-94a0c0c1a58b)
+![lennyDev2 (1)](https://github.com/LennyDevX/LennyDevX/assets/71667982/505aad7e-4131-4697-91c3-7a6753e0db6f)
 
 Hello, I'm Lenny Valdez 👋🏾
 I'm a passionate web developer, specializing in frontend development, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
@@ -47,8 +47,7 @@ If you're looking for someone who can bring solid technical skills, a collaborat
 
 **Databases 🐱‍🏍**
 
-<code><img height="35" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="35" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code><code><img height="35" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 ---
 
