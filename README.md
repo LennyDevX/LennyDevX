@@ -1,4 +1,3 @@
-![Dev](https://github.com/LennyDevX/LennyDevX/assets/71667982/71ad08bb-bbef-4da7-8f07-a2b36f2c327c)
 
 Hello, I'm Lenny Valdez 👋🏾
 I'm a passionate web developer, specializing in frontend development, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
@@ -26,11 +25,9 @@ If you're looking for someone who can bring solid technical skills, a collaborat
 <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="35" alt="nextjs" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
 
 **Design 🐱‍💻**
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="35" height="35"/></code>
 <code><img height="35" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="35" alt="tailwindcss" src="https://refactoringui.nyc3.digitaloceanspaces.com/tailwind-logo.svg"></code>
 <code><img height="35" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -40,7 +37,6 @@ If you're looking for someone who can bring solid technical skills, a collaborat
 
 <code><img height="35" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 <code><img height="35" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" alt="vercel" src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png"></code>
 
 
