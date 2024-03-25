@@ -1,6 +1,6 @@
 
 Hello, I'm Lenny Valdez 👋🏾
-I'm a passionate web developer, specializing in frontend development, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
+I'm a passionate web developer, specializing in frontend development and blockhchain, but with solid backend handling skills. My primary focus is creating interactive and efficient web applications using modern technologies such as React, Vite, JavaScript, Bootstrap, and Tailwind.
 
 While my strength lies in frontend, I have experience working with backend code, allowing me to have a comprehensive understanding of web application development. This enables me to effectively collaborate with backend teams and have a broader view of the projects I work on.
 
