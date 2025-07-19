@@ -1,17 +1,36 @@
-Hola, soy Lenny Valdez 👋🏾
-Soy un programador de la Generación AI y un apasionado prompt engineer de datos. Mi especialidad es desarrollar aplicaciones que exploran y aplican la inteligencia artificial al máximo nivel, tanto en aplicaciones de datos como en páginas y apps web. Aunque soy un programador de hobby, disfruto crear cosas por el puro placer de ver hasta dónde puede llegar la IA en nuestro mundo actual.
+# Hi there, I’m Lenny Valdez 👋🏾
 
-Mis herramientas principales incluyen tecnologías modernas como React, Vite, y herramientas para el procesamiento de datos y modelos de IA. Aunque me centro en frontend, tengo experiencia en backend, lo que me da una visión completa de todo el ciclo de desarrollo de una aplicación. Además, tengo conocimientos de blockchain, lo cual me permite integrar IA y descentralización en mis proyectos.
+I’m an **AI‑Native Developer** and passionate **Data Prompt Engineer**, dedicated to pushing the boundaries of artificial intelligence in both data‑driven applications and modern web experiences. While I code for the sheer joy of exploration, my projects consistently deliver real‑world value—whether it’s a dynamic React/Vite frontend, a robust backend service, or a seamless blockchain integration.
 
-Para mí, el código es tanto un juego como un arte: una forma de experimentar, innovar, y llevar ideas a la realidad. Crear aplicaciones que solucionen problemas, sorprendan o desafíen es lo que más disfruto de este mundo.
+---
 
-Si buscas a alguien que aporte una perspectiva fresca, creativa, y conocimientos en inteligencia artificial, ¡me encantaría conectar contigo!
+## 🚀 What I Do  
+- **AI & Data Apps**: Architect and build end‑to‑end solutions that harness machine learning models for insights, automation, and optimization.  
+- **Web Development**: Craft intuitive UIs with React, Vite, and TypeScript, backed by scalable backend APIs.  
+- **Blockchain & Web3**: Integrate decentralized technologies to create transparent, secure experiences.
 
-🌐 Redes Sociales:
+---
 
+## 🔧 Tech Stack  
+- **Frontend:** React, Vite, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Python  
+- **AI & Data:** TensorFlow, PyTorch, LangChain  
+- **Blockchain:** Solidity, Ethers.js, Hardhat  
+- **Other:** Git, Docker, REST & GraphQL
 
-Lenguajes y Herramientas:
-Front-End 🐱‍👤
+---
+
+Coding, to me, is both a science and an art—a playground for experimentation and innovation. I thrive on solving complex problems, delighting users, and challenging conventional limits with creative AI‑powered solutions.  
+
+Let’s connect and build something extraordinary together! 🌟  
+
+---
+
+## 🌐 Find me around the web  
+- **GitHub:** [@LennyValdez](https://github.com/LennyValdez)  
+- **LinkedIn:** [linkedin.com/in/lennyvaldez](https://www.linkedin.com/in/lennyvaldez)  
+- **Twitter:** [@LennyValdez](https://twitter.com/LennyValdez)  
+
 
 <code><img height="35" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="35" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="35" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
